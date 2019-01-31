@@ -24,8 +24,8 @@ Clone this one: [https://github.com/christianrubiales/Puppet-Docs-Marker-Templat
 
 ## Installing and Upgrading
 - [X] [Overview of Puppet's Architecture](https://puppet.com/docs/puppet/3.8/architecture.html)
-- [ ] [System Requirements](https://puppet.com/docs/puppet/3.8/system_requirements.html)
-- [ ] [Pre-Install Tasks](https://puppet.com/docs/puppet/3.8/pre_install.html)
+- [X] [System Requirements](https://puppet.com/docs/puppet/3.8/system_requirements.html)
+- [X] [Pre-Install Tasks](https://puppet.com/docs/puppet/3.8/pre_install.html)
 
 ### Install Puppet
 - [ ] [Install: RHEL and derivatives](https://puppet.com/docs/puppet/3.8/install_el.html)
