@@ -12,7 +12,7 @@ Clone this one: [https://github.com/christianrubiales/Puppet-Docs-Marker-Templat
 ## [Puppet Server 1.1 Release Notes](https://puppet.com/docs/puppetserver/1.1/release_notes.html)
 
 ## [About Deprecations in This Version](https://puppet.com/docs/puppet/3.8/deprecated_summary.html)
-- [ ] [About Deprecations in This Version](https://puppet.com/docs/puppet/3.8/deprecated_summary.html)
+- [X] [About Deprecations in This Version](https://puppet.com/docs/puppet/3.8/deprecated_summary.html)
 - [ ] [Language Features](https://puppet.com/docs/puppet/3.8/deprecated_language.html)
 - [ ] [Resource Type Features](https://puppet.com/docs/puppet/3.8/deprecated_resource.html)
 - [ ] [Extension Points and APIs](https://puppet.com/docs/puppet/3.8/deprecated_api.html)
@@ -22,7 +22,7 @@ Clone this one: [https://github.com/christianrubiales/Puppet-Docs-Marker-Templat
 - [ ] [Other Features](https://puppet.com/docs/puppet/3.8/deprecated_misc.html)
 
 ## [Overview of Puppet's Architecture](https://puppet.com/docs/puppet/3.8/architecture.html)
-- [ ] [Overview of Puppet's Architecture](https://puppet.com/docs/puppet/3.8/architecture.html)
+- [X] [Overview of Puppet's Architecture](https://puppet.com/docs/puppet/3.8/architecture.html)
 - [ ] [System Requirements](https://puppet.com/docs/puppet/3.8/system_requirements.html)
 - [ ] [Pre-Install Tasks](https://puppet.com/docs/puppet/3.8/pre_install.html)
 
