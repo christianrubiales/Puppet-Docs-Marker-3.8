@@ -28,13 +28,13 @@ Clone this one: [https://github.com/christianrubiales/Puppet-Docs-Marker-Templat
 - [X] [Pre-Install Tasks](https://puppet.com/docs/puppet/3.8/pre_install.html)
 
 ### Install Puppet
-- [ ] [Install: RHEL and derivatives](https://puppet.com/docs/puppet/3.8/install_el.html)
-- [ ] [Install: Debian and Ubuntu](https://puppet.com/docs/puppet/3.8/install_debian_ubuntu.html)
-- [ ] [Install: Fedora](https://puppet.com/docs/puppet/3.8/install_fedora.html)
-- [ ] [Install: Windows](https://puppet.com/docs/puppet/3.8/install_windows.html)
-- [ ] [Install: Mac OS X](https://puppet.com/docs/puppet/3.8/install_osx.html)
-- [ ] [Install: From gems](https://puppet.com/docs/puppet/3.8/install_gem.html)
-- [ ] [Install: from source tarball](https://puppet.com/docs/puppet/3.8/install_tarball.html)
+- [X] [Install: RHEL and derivatives](https://puppet.com/docs/puppet/3.8/install_el.html)
+- [X] [Install: Debian and Ubuntu](https://puppet.com/docs/puppet/3.8/install_debian_ubuntu.html)
+- [X] [Install: Fedora](https://puppet.com/docs/puppet/3.8/install_fedora.html)
+- [X] [Install: Windows](https://puppet.com/docs/puppet/3.8/install_windows.html)
+- [X] [Install: Mac OS X](https://puppet.com/docs/puppet/3.8/install_osx.html)
+- [X] [Install: From gems](https://puppet.com/docs/puppet/3.8/install_gem.html)
+- [X] [Install: from source tarball](https://puppet.com/docs/puppet/3.8/install_tarball.html)
 ## 
 - [ ] [Post-Install Tasks](https://puppet.com/docs/puppet/3.8/post_install.html)
 - [ ] [Upgrade Puppet](https://puppet.com/docs/puppet/3.8/upgrading.html)
