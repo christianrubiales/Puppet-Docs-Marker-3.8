@@ -37,7 +37,7 @@ Clone this one: [https://github.com/christianrubiales/Puppet-Docs-Marker-Templat
 - [X] [Install: from source tarball](https://puppet.com/docs/puppet/3.8/install_tarball.html)
 ## 
 - [X] [Post-Install Tasks](https://puppet.com/docs/puppet/3.8/post_install.html)
-- [ ] [Upgrade Puppet](https://puppet.com/docs/puppet/3.8/upgrading.html)
+- [X] [Upgrade Puppet](https://puppet.com/docs/puppet/3.8/upgrading.html)
 - [X] [Run Puppet from Source](https://puppet.com/docs/puppet/3.8/from_source.html)
 
 ## Puppet's Services and Tools
