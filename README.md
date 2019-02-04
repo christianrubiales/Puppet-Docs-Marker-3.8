@@ -41,8 +41,8 @@ Clone this one: [https://github.com/christianrubiales/Puppet-Docs-Marker-Templat
 - [X] [Run Puppet from Source](https://puppet.com/docs/puppet/3.8/from_source.html)
 
 ## Puppet's Services and Tools
-- [ ] [Puppet's Commands](https://puppet.com/docs/puppet/3.8/services_commands.html)
-- [ ] [Running Puppet Commands on Windows](https://puppet.com/docs/puppet/3.8/services_commands_windows.html)
+- [X] [Puppet's Commands](https://puppet.com/docs/puppet/3.8/services_commands.html)
+- [X] [Running Puppet Commands on Windows](https://puppet.com/docs/puppet/3.8/services_commands_windows.html)
 
 ### Puppet Master
 - [ ] [Puppet Server](https://puppet.com/docs/puppetserver/1.1/services_master_puppetserver.html)
