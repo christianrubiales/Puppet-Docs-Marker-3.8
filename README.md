@@ -46,9 +46,9 @@ Clone this one: [https://github.com/christianrubiales/Puppet-Docs-Marker-Templat
 
 ### Puppet Master
 - [X] [Puppet Server](https://puppet.com/docs/puppetserver/1.1/services_master_puppetserver.html)
-- [ ] [The Rack Puppet Master](https://puppet.com/docs/puppet/3.8/services_master_rack.html)
-- [ ] [Configuring a Server with Passenger and Apache](https://puppet.com/docs/puppet/3.8/passenger.html)
-- [ ] [The WEBrick Puppet Master](https://puppet.com/docs/puppet/3.8/services_master_webrick.html)
+- [X] [The Rack Puppet Master](https://puppet.com/docs/puppet/3.8/services_master_rack.html)
+- [X] [Configuring a Server with Passenger and Apache](https://puppet.com/docs/puppet/3.8/passenger.html)
+- [X] [The WEBrick Puppet Master](https://puppet.com/docs/puppet/3.8/services_master_webrick.html)
 ## 
 - [ ] [Puppet Agent on *nix](https://puppet.com/docs/puppet/3.8/services_agent_unix.html)
 - [ ] [Puppet Agent on Windows](https://puppet.com/docs/puppet/3.8/services_agent_windows.html)
